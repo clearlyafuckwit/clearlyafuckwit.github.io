@@ -1,0 +1,14 @@
+# Site settings
+title: Thoughts and Considerations
+email: clearly@fuck.wit
+description: > # this means to ignore newlines until "baseurl:"
+  Nothing is true, two things are certain: Everything is zoe, everyone is mad racist.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: clearlyafuckwit
+github_username:  clearlyafuckwit
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
